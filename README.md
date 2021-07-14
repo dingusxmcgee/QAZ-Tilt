@@ -10,3 +10,13 @@ This case is also specifically compatible with the Nice!nano bluetooth promicro 
 Case features a 9deg typing angle
 
 This case has design elements inspired by the timeless Keycult No.1
+
+
+*All files are provided as is and I accept no liability if they aren't very good.*
+
+*These files were made for 3D Print use and are not designed to be milled by a CNC machine. Milling will require changes to these files.*
+
+*Licensed with Unlicense*
+
+
+If you would like to support me in some way, consider [buying me a coffee :)](https://www.buymeacoffee.com/dingusxmcgee)
